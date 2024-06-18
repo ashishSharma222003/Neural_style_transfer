@@ -1,5 +1,5 @@
 # Neural_style_transfer
-Assignment for Dashtoon
+
 
 To set up and run the notebook containing this code snippet, you'll need the following dependencies:
 
